@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fronted-future/static/css/main.f16fe2bf.css",
+    "main.js": "/fronted-future/static/js/main.b5aee304.js",
+    "index.html": "/fronted-future/index.html",
+    "main.f16fe2bf.css.map": "/fronted-future/static/css/main.f16fe2bf.css.map",
+    "main.b5aee304.js.map": "/fronted-future/static/js/main.b5aee304.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f16fe2bf.css",
+    "static/js/main.b5aee304.js"
+  ]
+}
